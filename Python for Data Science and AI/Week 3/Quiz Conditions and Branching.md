@@ -85,9 +85,9 @@
 > 
 > 1 point 
 > 
->  True 
-> 
 
-      False
+         True 
+> 
+>  False
 >
 > -- https://www.coursera.org/learn/python-for-applied-data-science-ai/exam/Suumj/conditions-and-branching/attempt#Tunnel Vision Close
